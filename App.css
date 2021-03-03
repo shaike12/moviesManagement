@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+#root {
+  background-color: rgb(233, 232, 232);
+}
+
+
+a.link {
+  text-decoration: 'none'
+}
+
+a.link:hover {
+  color: black;
+}
+
